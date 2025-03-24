@@ -4,91 +4,31 @@ prediction,classe
 2,Brown Dwarf
 2,Brown Dwarf
 2,Brown Dwarf
-0,Brown Dwarf
 2,Brown Dwarf
 2,Brown Dwarf
 2,Brown Dwarf
 2,Brown Dwarf
-1,Red Dwarf
-3,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
+2,Brown Dwarf
 2,Red Dwarf
-1,Red Dwarf
 2,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
-3,Red Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-5,Main Sequence
-5,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-1,Brown Dwarf
-2,Brown Dwarf
-0,Brown Dwarf
-0,Brown Dwarf
-0,Brown Dwarf
-2,Brown Dwarf
-0,Brown Dwarf
-0,Brown Dwarf
-0,Brown Dwarf
-0,Brown Dwarf
-3,Red Dwarf
-3,Red Dwarf
-1,Red Dwarf
-3,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
 2,Red Dwarf
 2,Red Dwarf
 4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
 4,Main Sequence
 4,Main Sequence
 4,Main Sequence
@@ -98,7 +38,7 @@ prediction,classe
 4,Main Sequence
 4,Main Sequence
 4,Main Sequence
-5,Main Sequence
+4,Main Sequence
 5,Supergiant
 5,Supergiant
 5,Supergiant
@@ -108,11 +48,11 @@ prediction,classe
 5,Supergiant
 5,Supergiant
 5,Supergiant
-5,Supergiant
+4,Supergiant
 5,Hypergiant
 5,Hypergiant
 5,Hypergiant
-5,Hypergiant
+3,Hypergiant
 5,Hypergiant
 5,Hypergiant
 5,Hypergiant
@@ -125,117 +65,177 @@ prediction,classe
 2,Brown Dwarf
 2,Brown Dwarf
 2,Brown Dwarf
-0,Brown Dwarf
-0,Brown Dwarf
-0,Brown Dwarf
-0,Brown Dwarf
-1,Red Dwarf
-1,Red Dwarf
-3,Red Dwarf
-3,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
-3,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-5,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-5,Main Sequence
-5,Main Sequence
-5,Main Sequence
-5,Main Sequence
-4,Main Sequence
-5,Main Sequence
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-0,Brown Dwarf
-0,Brown Dwarf
 2,Brown Dwarf
 2,Brown Dwarf
 2,Brown Dwarf
-0,Brown Dwarf
+2,Brown Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Supergiant
+3,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+5,Hypergiant
+5,Hypergiant
+5,Hypergiant
+5,Hypergiant
+5,Hypergiant
+5,Hypergiant
+0,Hypergiant
+5,Hypergiant
+0,Hypergiant
+5,Hypergiant
 2,Brown Dwarf
 2,Brown Dwarf
-0,Brown Dwarf
 2,Brown Dwarf
-1,Red Dwarf
-1,Red Dwarf
-3,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
-1,Red Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-4,White Dwarf
-5,Main Sequence
+2,Brown Dwarf
+2,Brown Dwarf
+2,Brown Dwarf
+2,Brown Dwarf
+2,Brown Dwarf
+2,Brown Dwarf
+2,Brown Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
 4,Main Sequence
 4,Main Sequence
-5,Main Sequence
-5,Main Sequence
-5,Main Sequence
-4,Main Sequence
-5,Main Sequence
 4,Main Sequence
 4,Main Sequence
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
-5,Supergiant
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
 5,Hypergiant
 5,Hypergiant
+3,Hypergiant
+1,Hypergiant
 5,Hypergiant
 5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
-5,Hypergiant
+1,Hypergiant
+0,Hypergiant
+0,Hypergiant
+1,Hypergiant
+2,Brown Dwarf
+2,Brown Dwarf
+2,Brown Dwarf
+2,Brown Dwarf
+2,Brown Dwarf
+2,Brown Dwarf
+2,Brown Dwarf
+2,Brown Dwarf
+2,Brown Dwarf
+2,Brown Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,Red Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+2,White Dwarf
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Main Sequence
+4,Supergiant
+4,Supergiant
+4,Supergiant
+3,Supergiant
+4,Supergiant
+4,Supergiant
+3,Supergiant
+3,Supergiant
+4,Supergiant
+3,Supergiant
+1,Hypergiant
+1,Hypergiant
+3,Hypergiant
+3,Hypergiant
+3,Hypergiant
+1,Hypergiant
+3,Hypergiant
+0,Hypergiant
+0,Hypergiant
+1,Hypergiant
