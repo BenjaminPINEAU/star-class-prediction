@@ -44,7 +44,6 @@ def covariance_empirique(X):
 
 
 def mesure_quantiles(X, y, alpha=0.99999, mu_a=0, Sigma_a=0, mu_b=0, Sigma_b=0, parametres_forcees = False, combinaison  = f) : #on se donne un quantile, on regarde quelle proportion d'éléments de la classe 2 sont dans la classe 1, vice versa et on en dédeuit un truc
-  #print('feurfeurfeurfeurfeur')
   """
   Donne une valeur de distance (entre 0 & 1) entre deux gaussiennes.
   Considère les ellipses définies par un quantile, et plus exactement la proportion des points de l'autre gaussienne qui sont dans l'ellipse.
@@ -90,7 +89,6 @@ def mesure_quantiles(X, y, alpha=0.99999, mu_a=0, Sigma_a=0, mu_b=0, Sigma_b=0, 
     if est_dans_quantile:
       cpt_a += 1
   prop_a = cpt_a / len(points_classe_a)
-  print('feur_a', prop_a)
 
   #idem pour b
   cpt_b =0
@@ -98,7 +96,7 @@ def mesure_quantiles(X, y, alpha=0.99999, mu_a=0, Sigma_a=0, mu_b=0, Sigma_b=0, 
   S_inv_a= np.linalg.inv(S_a)
   for x_b in points_classe_b:
     delta_x_b = x_b - m_a
-    dist_mahalanobis_a = np.sqrt(delta_x_b.T @ S_inv_b @ delta_x_b)
+    dist_mahalanobis_a = np.sqrt(delta_x_b.T @ S_inv_a @ delta_x_b)
     if dist_mahalanobis_a < quantile:
       est_dans_quantile = True
     else:
@@ -106,5 +104,4 @@ def mesure_quantiles(X, y, alpha=0.99999, mu_a=0, Sigma_a=0, mu_b=0, Sigma_b=0, 
     if est_dans_quantile:
       cpt_b += 1
   prop_b = cpt_b/ len(points_classe_b)
-  print('feur_b', prop_b)
   return(f(prop_a, prop_b))
