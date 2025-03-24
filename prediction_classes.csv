@@ -1,84 +1,24 @@
 prediction,classe
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-3,White Dwarf
-0,White Dwarf
-0,White Dwarf
-0,White Dwarf
-0,White Dwarf
-0,White Dwarf
-0,White Dwarf
-0,White Dwarf
-0,White Dwarf
-0,White Dwarf
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
 0,White Dwarf
 0,White Dwarf
 0,White Dwarf
@@ -89,56 +29,56 @@ prediction,classe
 0,White Dwarf
 0,White Dwarf
 0,White Dwarf
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+4,Supergiant
+5,Supergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
 0,White Dwarf
 0,White Dwarf
 0,White Dwarf
@@ -149,56 +89,56 @@ prediction,classe
 0,White Dwarf
 0,White Dwarf
 0,White Dwarf
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-2,Brown Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
-5,Red Dwarf
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+2,Hypergiant
+4,Hypergiant
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
 0,White Dwarf
 0,White Dwarf
 0,White Dwarf
@@ -209,33 +149,93 @@ prediction,classe
 0,White Dwarf
 0,White Dwarf
 0,White Dwarf
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-4,Main Sequence
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Supergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
-1,Hypergiant
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+4,Hypergiant
+4,Hypergiant
+4,Hypergiant
+2,Hypergiant
+4,Hypergiant
+4,Hypergiant
+2,Hypergiant
+2,Hypergiant
+2,Hypergiant
+2,Hypergiant
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Brown Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+3,Red Dwarf
+0,White Dwarf
+0,White Dwarf
+0,White Dwarf
+0,White Dwarf
+0,White Dwarf
+0,White Dwarf
+0,White Dwarf
+0,White Dwarf
+0,White Dwarf
+0,White Dwarf
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+1,Main Sequence
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+5,Supergiant
+2,Hypergiant
+2,Hypergiant
+2,Hypergiant
+2,Hypergiant
+2,Hypergiant
+2,Hypergiant
+2,Hypergiant
+2,Hypergiant
+2,Hypergiant
+2,Hypergiant
